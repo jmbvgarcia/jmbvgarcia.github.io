@@ -30,4 +30,4 @@ Despite the extensive literature on the effect of childcare on mothers' labor ma
 
 ## The Effect of Child Disability on Mothers’ Labor Supply: Evidence from the Zika Virus Outbreak
 
-[1]:{{ site.url }}/assets/pdf/file.pdf
+[1]:{{ site.url }}/assets/pdf/Childcare_SP.pdf
