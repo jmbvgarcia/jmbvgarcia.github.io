@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am PhD candidate from Brown University. I am interested in policy-relevant topics in environmental and development.
+I am a PhD candidate from Brown University, interested in policy-relevant topics in environmental and development.
 
 # Job Market Paper
 ## [Optimizing Incentives for Rooftop Solar: Accounting for Regional Differences in Marginal Emissions][1]
