@@ -30,5 +30,7 @@ Despite the extensive literature on the effect of childcare on mothers' labor ma
 
 ## The Effect of Child Disability on Mothers’ Labor Supply: Evidence from the Zika Virus Outbreak
 
+Severe child disability is among the most consequential events to parent's labor market outcomes, but there is still a small literature studying its effects. We study this question in the context of the Zika Virus epidemic in Brazil, which caused thousands of children to be born with microcephaly. We argue that several characteristics of the epidemic make it suitable as a natural experiment. Infection was sudden and the link between Zika and microcephaly was unknown at the time. Using data on the universe of births and formal employment links in the country, we show that affected mothers had similar labor market trajectories to other mothers before childbirth. However, starting 9 months after childbirth, they are 20% (10 p.p.) less likely to have a formal job. These effects persist over time. We do not observe any effects for fathers' labor market outcomes.
+
 [1]:{{ site.url }}/assets/pdf/JMP_jgarcia.pdf
 [2]:{{ site.url }}/assets/pdf/Childcare_SP.pdf
