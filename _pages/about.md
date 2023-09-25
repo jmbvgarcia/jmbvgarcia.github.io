@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: center
   image: jm_photo.jpeg
   image_circular: false # crops the image to make it circular
   address: false
