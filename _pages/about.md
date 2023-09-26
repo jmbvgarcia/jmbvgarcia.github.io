@@ -17,7 +17,10 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
+![jmpic]({{ site.url }}//assets/img/jm_photo.jpeg)
+
 I am a PhD candidate from Brown University, interested in policy-relevant topics in environmental and development.
+
 
 # Job Market Paper
 
