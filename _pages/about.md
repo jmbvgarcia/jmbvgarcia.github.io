@@ -19,13 +19,13 @@ social: false  # includes social icons at the bottom of the page
 
 ![jmpic]({{ site.url }}//assets/img/jm_photo.jpeg){:width="100%"}
 
-I am a PhD candidate from Brown University, interested in policy-relevant topics in environmental and development.
+I am a PhD candidate from Brown University, working in labor and gender in developing countries and environmental policy. I will be in the Job Market in the 2023/2024 season.
 
 
 # Job Market Paper
 
 ## [Does Free Childcare Improve Mothers’ Careers? Evidence from São Paulo][2]
-Despite the extensive literature on the effect of childcare on mothers' labor market outcomes, evidence in developing countries is still limited. This paper estimates the impact of a rapid expansion of public childcare on mothers' careers in the city of Sao Paulo. We leverage the rollout and expansion of childcare facilities, coupled with detailed data on the labor market and household characteristics to identify effects on mothers' labor force participation and earnings. Using a difference-in-differences approach, we compare the child penalty in districts that experienced a large and rapid expansion of childcare with districts with no significant expansion. Our results show that an additional seat per child leads to an increase of 3.7 p.p. (11.4%) in the mothers' formal employment after the first child's birth and an increase of one month's minimum wage on yearly earnings. Effects are stronger for migrants, educated mothers and in areas with more women as household heads. We do not detect any effect of this expansion on mothers-to-be or fathers.
+Despite the extensive literature on the effect of childcare on mothers' labor market outcomes, evidence in developing countries is still limited. This paper estimates the impact of a rapid expansion of public childcare on mothers' careers in the city of Sao Paulo. We leverage the rollout and expansion of childcare facilities, coupled with detailed data on the labor market and household characteristics to identify effects on mothers' labor force participation and earnings. Using a difference-in-differences approach, we compare the child penalty in districts that experienced a large and rapid expansion of childcare with districts with no significant expansion. Our results show that an additional seat per child leads to an increase of 6 p.p. (20%) in the mothers' formal employment after the first child's birth and an increase of one month's minimum wage on yearly earnings. Effects are stronger for migrants, educated mothers and in areas with more women as household heads. We do not detect any effect of this expansion on mothers-to-be or fathers.
 
 
 # Working Papers
