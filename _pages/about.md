@@ -21,6 +21,8 @@ social: false  # includes social icons at the bottom of the page
 
 I am a PhD candidate from Brown University, working in labor and gender in developing countries and environmental policy. I will be in the Job Market in the 2023/2024 season.
 
+You can contact me at joao_garcia@brown.edu.
+
 
 # Job Market Paper
 
