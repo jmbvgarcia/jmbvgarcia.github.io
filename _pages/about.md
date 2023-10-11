@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a PhD candidate from Brown University, working in labor and gender in developing countries and environmental policy. I will be in the Job Market in the 2023/2024 season.
 
-You can contact me at joao_garcia@brown.edu.
+You can contact me at joao_garcia@brown.edu, and you can find my CV [here][4].
 
 
 # Job Market Paper
@@ -43,3 +43,4 @@ Severe child disability is among the most consequential events to parent's labor
 [1]:{{ site.url }}/assets/pdf/SolarProject.pdf
 [2]:{{ site.url }}/assets/pdf/Childcare_SP.pdf
 [3]:{{ site.url }}/assets/pdf/ZikaPaper.pdf
+[4]:{{ site.url }}/assets/pdf/CV.pdf
