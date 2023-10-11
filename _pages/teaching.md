@@ -7,6 +7,21 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Brown University
+## PhD Sequence
 
-Organize your courses by years, topics, or universities, however you like!
+- Macroeconomics - Prof. Oded Galor
+- Econometrics - Prof. Andryi Norets
+
+## MPA 
+
+- Economics of Public Policy - Prof. John Friedman & Prof. Bryce Steinberg ([Evaluations][1])
+- Economics of Government - Prof. Alex Poterack
+- Econometrics - Prof. Neil Thakral
+
+## Undergraduate Level
+
+- Public Economics - Prof. Alex Poterack
+- Environmental Economics - Prof. Alex Poterack
+
+[1]:{{ site.url }}/assets/pdf/Evaluations.pdf
