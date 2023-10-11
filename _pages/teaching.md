@@ -18,7 +18,7 @@ nav_order: 5
 - Economics of Government - Prof. Alex Poterack
 - Econometrics - Prof. Neil Thakral
 
-## Undergraduate Level
+## Undergraduate 
 
 - Public Economics - Prof. Alex Poterack
 - Environmental Economics - Prof. Alex Poterack
