@@ -10,7 +10,7 @@ nav_order: 5
 ## PhD Sequence
 
 - Macroeconomics - Prof. Oded Galor
-- Econometrics - Prof. Andryi Norets
+- Econometrics - Prof. Andriy Norets
 
 ## MPA 
 
