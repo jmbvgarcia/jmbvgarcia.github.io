@@ -26,8 +26,10 @@ You can contact me at joao_garcia@brown.edu, and you can find my CV [here][4].
 
 # Job Market Paper
 
-## [Does Free Childcare Improve Mothers’ Careers? Evidence from São Paulo][2]
-Latin America consistently has some of the largest child penalties for female work globally, and, while subsidized childcare is often advanced as a remedy, the literature on its effectiveness is scarce in this context. This paper estimates the impact of a rapid expansion of public childcare on mothers' careers in the city of Sao Paulo. We leverage the rollout and expansion of childcare facilities, coupled with detailed data on the labor market and household characteristics to identify effects on mothers' labor force participation and earnings. Using a difference-in-differences approach, we compare the child penalty in districts that experienced a large and rapid expansion of childcare with districts with no significant expansion. Our results show that an additional seat per child leads to an increase of 6.7 p.p. (20%) in the mothers' formal employment after the first child's birth.  We do not detect any effect of this expansion on mothers-to-be or fathers. Effects are stronger for low-education mothers and in areas with more women as household heads.
+## [Free Childcare and the Motherhood Penalty: Evidence from São Paulo][2]
+Latin America consistently has some of the largest child penalties for female work glob-
+ally, and while subsidized childcare is often advanced as a remedy, the literature on its
+effectiveness is scarce in this context. This paper estimates the impact of a rapid expansion of public childcare on mothers’ careers in the city of Sao Paulo. We leverage precise location and timing of the rollout and expansion of childcare facilities, coupled with detailed data on the labor market and household characteristics to identify effects on mothers’ labor force participation and earnings. Using a difference-in-differences approach, we compare the child penalty in districts that experienced a large and rapid expansion of childcare with districts with no significant expansion. Our results show that an additional seat per child leads to an increase of 6.4 p.p. (20%) in the mothers’ formal employment after the first child’s birth. We do not detect any effect of this expansion on mothers-to-be or fathers.
 
 
 # Working Papers
