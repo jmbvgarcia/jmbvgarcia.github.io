@@ -19,9 +19,9 @@ social: false  # includes social icons at the bottom of the page
 
 ![jmpic]({{ site.url }}//assets/img/jm_photo.jpeg){:width="100%"}
 
-I am a PhD candidate from Brown University, working in labor and gender in developing countries and environmental policy. I will be in the Job Market in the 2023/2024 season.
+I am an Assistant Professor atthe Universidad de Santiago de Chile (USACH), working in labor and gender in developing countries and environmental policy. 
 
-You can contact me at joao_garcia@brown.edu, and you can find my CV [here][4].
+You can contact me at joao.garcia@usach.cl, and you can find my CV [here][4].
 
 
 # Job Market Paper
