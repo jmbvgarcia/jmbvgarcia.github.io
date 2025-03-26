@@ -56,7 +56,7 @@ nav_order: 6
 ## Cálculo de Poder
 - Clase
 ## Bootstraping
--Clase
+- Clase
 
 
 [1]:{{ site.url }}/assets/pdf/RepasoProb.pdf
