@@ -61,4 +61,4 @@ nav_order: 6
 
 [1]:{{ site.url }}/assets/pdf/RepasoProb.pdf
 [2]:{{ site.url }}/assets/pdf/RepasoRegresion.pdf
-[3]:{{ site.url }}/assets/code/Regression.R
+[3]:{{ site.url }}/assets/code/regression.R
