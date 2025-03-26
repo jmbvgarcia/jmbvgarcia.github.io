@@ -6,6 +6,11 @@ nav: true
 nav_order: 5
 ---
 
+# Universidad de Santiago de Chile
+## Microeconometría y Inferencia Causal
+
+- [Página del curso][2]
+
 # Brown University
 ## PhD Sequence
 
@@ -24,3 +29,4 @@ nav_order: 5
 - Environmental Economics - Prof. Alex Poterack
 
 [1]:{{ site.url }}/assets/pdf/Evaluations.pdf
+[2]:{{ site.url }}/causal
