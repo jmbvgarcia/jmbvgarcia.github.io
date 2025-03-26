@@ -18,25 +18,45 @@ nav_order: 6
 
 # Modelos de Causalidad
 ## Diagramas Causales
+- Clase
+- Ejercícios
 
 ## Modelo de Resultados Potenciales
+- Clase
+- Ejercicios
 
 # Experimentos
-## Ensaios Controlados Aleatorizados
+## Ensaios Controlados Randomizados
+- Clase
+- Ejercicios
 
 # Controles
 ## Regresión y Pareamento
+- Clase
+- Ejercicios
+
 ## Propensity Score
+- Clase
+- Ejercicios
 
 # Diseños Cuasi-experimentales
 ## Variables Instrumentales
+- Clase
+- Ejercicio
 ## Regresión Discontinua
+- Clase
+- Ejercicio
 ## Diferencias en Diferencias y Control Sintético
+- Clase
+- Ejercicio
 
 # Tópicos en Inferencia
 ## Inferencia Exacta
+- Clase
 ## Cálculo de Poder
+- Clase
 ## Bootstraping
+-Clase
 
 
 [1]:{{ site.url }}/assets/pdf/RepasoProb.pdf
