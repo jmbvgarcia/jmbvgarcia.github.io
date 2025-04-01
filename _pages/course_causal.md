@@ -18,7 +18,7 @@ nav_order: 6
 
 # Modelos de Causalidad
 ## Diagramas Causales
-- Clase
+- [Clase][4]
 - Ejercícios
 
 ## Modelo de Resultados Potenciales
@@ -62,3 +62,4 @@ nav_order: 6
 [1]:{{ site.url }}/assets/pdf/RepasoProb.pdf
 [2]:{{ site.url }}/assets/pdf/RepasoRegresion.pdf
 [3]:{{ site.url }}/assets/code/regression.R
+[4]:{{ site.url }}/assets/pdf/DAGs.pdf
