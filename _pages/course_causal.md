@@ -22,7 +22,7 @@ nav_order: 6
 - [Ejercícios][5]
 
 ## Modelo de Resultados Potenciales
-- Clase
+- [Clase][6]
 - Ejercicios
 
 # Experimentos
@@ -64,3 +64,4 @@ nav_order: 6
 [3]:{{ site.url }}/assets/code/regression.R
 [4]:{{ site.url }}/assets/pdf/DAGs.pdf
 [5]:{{ site.url }}/assets/pdf/Ejercicios1.pdf
+[6]:{{ site.url }}/assets/pdf/ResultadosPotenciales.pdf
