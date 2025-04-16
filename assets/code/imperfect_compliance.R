@@ -1,5 +1,5 @@
 library(tidyverse)
-library(ivreg)
+
 set.seed(12345)
 
 # Number of observations
