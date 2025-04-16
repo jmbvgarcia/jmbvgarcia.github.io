@@ -23,11 +23,11 @@ nav_order: 6
 
 ## Modelo de Resultados Potenciales
 - [Clase][6]
-- Ejercicios
 
 # Experimentos
 ## Ensaios Controlados Randomizados
-- Clase
+- [Clase][7]
+- [Código][8]
 - Ejercicios
 
 # Controles
@@ -65,3 +65,5 @@ nav_order: 6
 [4]:{{ site.url }}/assets/pdf/DAGs.pdf
 [5]:{{ site.url }}/assets/pdf/Ejercicios1.pdf
 [6]:{{ site.url }}/assets/pdf/ResultadosPotenciales.pdf
+[7]:{{ site.url }}/assets/pdf/Experimentos.pdf
+[8]:{{ site.url }}/assets/code/imperfect_compliance.R
