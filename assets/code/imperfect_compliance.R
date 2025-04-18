@@ -6,8 +6,9 @@ set.seed(12345)
 n <- 10000
 
 # Compliance types
-types <- sample(c("complier", "always", "never"),
-                n, replace = TRUE, prob = c(0.5, 0.25, 0.25))
+types <- sample(c("complier", "always", "never"),n, 
+                prob = c(0.5, 0.25, 0.25), 
+                replace = TRUE)
 
 # Generate tibble with baseline potential outcome Y0 depending on type
 df <- tibble(
