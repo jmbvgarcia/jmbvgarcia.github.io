@@ -32,11 +32,10 @@ nav_order: 6
 
 # Controles
 ## Regresión y Pareamento
-- Clase
-- Ejercicios
-
-## Propensity Score
-- Clase
+- [Clase][9]
+-[Código Subclasificación][10]
+-[Código Matching][11]
+-[Código Propensity Score][12]
 - Ejercicios
 
 # Diseños Cuasi-experimentales
@@ -67,3 +66,7 @@ nav_order: 6
 [6]:{{ site.url }}/assets/pdf/ResultadosPotenciales.pdf
 [7]:{{ site.url }}/assets/pdf/Experimentos.pdf
 [8]:{{ site.url }}/assets/code/imperfect_compliance.R
+[9]:{{ site.url }}/assets/pdf/Condicionando.pdf
+[10]:{{ site.url }}/assets/code/titanic.R
+[11]:{{ site.url }}/assets/code/nearest_neighbor_matching.R
+[12]:{{ site.url }}/assets/code/ps.R
