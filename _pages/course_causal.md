@@ -33,9 +33,9 @@ nav_order: 6
 # Controles
 ## Regresión y Pareamento
 - [Clase][9]
--[Código Subclasificación][10]
--[Código Matching][11]
--[Código Propensity Score][12]
+- [Código Subclasificación][10]
+- [Código Matching][11]
+- [Código Propensity Score][12]
 - Ejercicios
 
 # Diseños Cuasi-experimentales
