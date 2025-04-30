@@ -28,7 +28,7 @@ nav_order: 6
 ## Ensaios Controlados Randomizados
 - [Clase][7]
 - [Código][8]
-- Ejercicios
+- [Ejercicios][15]
 
 # Controles
 ## Regresión y Pareamento
@@ -36,8 +36,6 @@ nav_order: 6
 - [Código Subclasificación][10]
 - [Código Matching][11]
 - [Código Propensity Score][12]
-- Ejercicios
-
 ## Inferencia en Experimentos
 - [Clase][13]
 - [Código][14]
@@ -70,3 +68,4 @@ nav_order: 6
 [12]:{{ site.url }}/assets/code/ps.R
 [13]:{{ site.url }}/assets/pdf/Inferencia.pdf
 [14]:{{ site.url }}/assets/code/exact_inference.R
+[15]:{{ site.url }}/assets/pdf/Ejercicios2.pdf
