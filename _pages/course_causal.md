@@ -38,6 +38,10 @@ nav_order: 6
 - [Código Propensity Score][12]
 - Ejercicios
 
+## Inferencia en Experimentos
+- [Clase][13]
+- [Código][14]
+
 # Diseños Cuasi-experimentales
 ## Variables Instrumentales
 - Clase
@@ -49,13 +53,7 @@ nav_order: 6
 - Clase
 - Ejercicio
 
-# Tópicos en Inferencia
-## Inferencia Exacta
-- Clase
-## Cálculo de Poder
-- Clase
-## Bootstraping
-- Clase
+
 
 
 [1]:{{ site.url }}/assets/pdf/RepasoProb.pdf
@@ -70,3 +68,5 @@ nav_order: 6
 [10]:{{ site.url }}/assets/code/titanic.R
 [11]:{{ site.url }}/assets/code/nearest_neighbor_matching.R
 [12]:{{ site.url }}/assets/code/ps.R
+[13]:{{ site.url }}/assets/pdf/Inferencia.pdf
+[14]:{{ site.url }}/assets/code/exact_inference.R
