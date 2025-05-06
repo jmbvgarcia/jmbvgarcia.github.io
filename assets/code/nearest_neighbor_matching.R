@@ -190,7 +190,7 @@ comparison |>
 
 # ATT estimate
 att_estimate <- comparison |> mutate(diff = promT - promC) |> summarise(ATT = mean(diff,na.rm=TRUE)) |> pull(ATT)
-cat(sprintf("\nEstimated ATT from NN matching: %.3f\n", att_estimate))
+cat(sprintf("\nEstimated ATT from caliper matching: %.3f\n", att_estimate))
 
 
 
