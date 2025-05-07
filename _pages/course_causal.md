@@ -76,6 +76,6 @@ nav_order: 6
 [13]:{{ site.url }}/assets/pdf/Inferencia.pdf
 [14]:{{ site.url }}/assets/code/exact_inference.R
 [15]:{{ site.url }}/assets/pdf/Ejercicios2.pdf
-[16]:{{ site.url }}/assets/pdf/Inference2.pdf
+[16]:{{ site.url }}/assets/pdf/Inferencia2.pdf
 [17]:{{ site.url }}/assets/code/cluster_sim.R
 [18]:{{ site.url }}/assets/code/bootstrap.R
