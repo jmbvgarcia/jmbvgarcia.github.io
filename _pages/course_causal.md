@@ -36,6 +36,7 @@ nav_order: 6
 - [Código Subclasificación][10]
 - [Código Matching][11]
 - [Código Propensity Score][12]
+- [Ejercicios][19]
 
 # Inferencia
 # En Experimentos
@@ -79,3 +80,4 @@ nav_order: 6
 [16]:{{ site.url }}/assets/pdf/Inferencia2.pdf
 [17]:{{ site.url }}/assets/code/cluster_sim.R
 [18]:{{ site.url }}/assets/code/bootstrap.R
+[19]:{{ site.url }}/assets/pdf/Ejercicios3.pdf
