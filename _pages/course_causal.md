@@ -37,11 +37,12 @@ nav_order: 6
 - [Código Matching][11]
 - [Código Propensity Score][12]
 
-## Inferencia en Experimentos
+# Inferencia
+# En Experimentos
 - [Clase][13]
 - [Código][14]
 
-## Inferencia No Experimental
+## No Experimental
 - [Clase][16]
 - [Código Clustering][17]
 - [Código Bootstrap][18]
