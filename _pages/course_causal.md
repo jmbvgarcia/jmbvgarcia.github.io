@@ -81,4 +81,4 @@ nav_order: 6
 [17]:{{ site.url }}/assets/code/cluster_sim.R
 [18]:{{ site.url }}/assets/code/bootstrap.R
 [19]:{{ site.url }}/assets/pdf/Ejercicios3.pdf
-[19]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
+[20]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
