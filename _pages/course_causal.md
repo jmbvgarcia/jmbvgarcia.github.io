@@ -52,13 +52,17 @@ nav_order: 6
 ## Variables Instrumentales
 - [Clase][20]
 - [Ejercicio][21]
+
 ## Regresión Discontinua
 - Clase
 - Ejercicio
+
 ## Diferencias en Diferencias y Control Sintético
 - Clase
 - Ejercicio
 
+## Evaluación
+- [Trabajo Final][22]
 
 
 
@@ -83,3 +87,4 @@ nav_order: 6
 [19]:{{ site.url }}/assets/pdf/Ejercicios3.pdf
 [20]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
 [21]:{{ site.url }}/assets/pdf/ejercicio_iv.pdf
+[22]:{{ site.url }}/assets/pdf/trabajo_final.pdf
