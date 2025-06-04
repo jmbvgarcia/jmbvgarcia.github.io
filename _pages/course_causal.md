@@ -51,7 +51,7 @@ nav_order: 6
 # Diseños Cuasi-experimentales
 ## Variables Instrumentales
 - [Clase][20]
-- Ejercicio
+- [Ejercicio][21]
 ## Regresión Discontinua
 - Clase
 - Ejercicio
@@ -82,3 +82,4 @@ nav_order: 6
 [18]:{{ site.url }}/assets/code/bootstrap.R
 [19]:{{ site.url }}/assets/pdf/Ejercicios3.pdf
 [20]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
+[21]:{{ site.url }}/assets/pdf/ejercicio_iv.pdf
