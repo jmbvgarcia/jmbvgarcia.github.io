@@ -52,6 +52,7 @@ nav_order: 6
 ## Variables Instrumentales
 - [Clase][20]
 - [Ejercicio][21]
+- [Tarea][23]
 
 ## Regresión Discontinua
 - Clase
@@ -88,3 +89,4 @@ nav_order: 6
 [20]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
 [21]:{{ site.url }}/assets/pdf/ejercicio_iv.pdf
 [22]:{{ site.url }}/assets/pdf/trabajo_final.pdf
+[23]:{{ site.url }}/assets/pdf/Tarea-4pdf
