@@ -90,4 +90,4 @@ nav_order: 6
 [21]:{{ site.url }}/assets/pdf/ejercicio_iv.pdf
 [22]:{{ site.url }}/assets/pdf/trabajo_final.pdf
 [23]:{{ site.url }}/assets/pdf/Tarea4.pdf
-[23]:{{ site.url }}/assets/pdf/RDD.pdf
+[24]:{{ site.url }}/assets/pdf/RDD.pdf
