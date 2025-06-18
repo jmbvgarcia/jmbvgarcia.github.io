@@ -60,7 +60,7 @@ nav_order: 6
 - Ejercicio
 
 ## Diferencias en Diferencias y Control Sintético
-- Clase
+- [Clase][26]
 - Ejercicio
 
 ## Evaluación
@@ -93,3 +93,4 @@ nav_order: 6
 [23]:{{ site.url }}/assets/pdf/Tarea4.pdf
 [24]:{{ site.url }}/assets/pdf/RDD.pdf
 [25]:{{ site.url }}/assets/code/clase_RD.R
+[26]:{{ site.url }}/assets/pdf/DID.pdf
