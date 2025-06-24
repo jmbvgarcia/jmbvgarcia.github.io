@@ -57,7 +57,7 @@ nav_order: 6
 ## Regresión Discontinua
 - [Clase][24]
 - [Código][25]
-- Ejercicio
+- [Tarea][27]
 
 ## Diferencias en Diferencias y Control Sintético
 - [Clase][26]
@@ -94,3 +94,4 @@ nav_order: 6
 [24]:{{ site.url }}/assets/pdf/RDD.pdf
 [25]:{{ site.url }}/assets/code/clase_RD.R
 [26]:{{ site.url }}/assets/pdf/DID.pdf
+[27]:{{ site.url }}/assets/pdf/tarea5.pdf
