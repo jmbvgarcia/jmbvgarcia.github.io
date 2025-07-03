@@ -61,7 +61,7 @@ nav_order: 6
 
 ## Diferencias en Diferencias y Control Sintético
 - [Clase][26]
-- [Ejercicio][28]
+- [Tarea][28]
 
 ## Evaluación
 - [Trabajo Final][22]
