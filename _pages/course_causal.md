@@ -95,4 +95,4 @@ nav_order: 6
 [25]:{{ site.url }}/assets/code/clase_RD.R
 [26]:{{ site.url }}/assets/pdf/DID.pdf
 [27]:{{ site.url }}/assets/pdf/tarea5.pdf
-[28]:{{ site.url }}/assets/pdf/Tarea6.pdf
+[28]:{{ site.url }}/assets/pdf/tarea6.pdf
