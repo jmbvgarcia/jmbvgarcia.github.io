@@ -61,7 +61,7 @@ nav_order: 6
 
 ## Diferencias en Diferencias y Control Sintético
 - [Clase][26]
-- Ejercicio
+- [Ejercicio][28]
 
 ## Evaluación
 - [Trabajo Final][22]
@@ -95,3 +95,4 @@ nav_order: 6
 [25]:{{ site.url }}/assets/code/clase_RD.R
 [26]:{{ site.url }}/assets/pdf/DID.pdf
 [27]:{{ site.url }}/assets/pdf/tarea5.pdf
+[28]:{{ site.url }}/assets/pdf/tarea6.pdf
