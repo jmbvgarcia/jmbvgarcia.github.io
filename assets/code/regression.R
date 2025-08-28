@@ -174,7 +174,7 @@ summary(probit)
 library(margins)
 
 margins_logit <- margins(logit)  # Adjust for variables of interest
-summary(margins_mean)
+summary(margins_logit)
 
 margins_probit <- margins(probit)  # Adjust for variables of interest
 summary(margins_probit)
