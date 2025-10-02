@@ -32,14 +32,11 @@ Latin America consistently has some of the world`s largest child penalties (or m
 
 
 
-## [Congenital Disability and Parents’ Labor Supply: Evidence from the Zika Virus Outbreak][3]
-### with Marcela Mello and Rafael Latham-Proença
+## [CChild Disability and Parental Labor Supply][3]
+### with Marcela Mello, Rafael Latham-Proença and Joana Silva
 
-Having a child with a severe congenital disability deeply impacts family life, yet there is limited evidence on how these shocks affect economic outcomes. We study a shock to disability incidence caused by the Zika Virus epidemic in Brazil, which caused thousands of children to be born with microcephaly. Using data on the universe of births and formal employment linked to a sample of poor mothers, we find that, compared to controls, mothers of Zika-affected infants experience a 66\% larger motherhood penalty in the formal labor market. Informal employment does not compensate this difference. We show suggestive evidence of significant disemployment effects of social security benefits, but effects are still significant for non-recipients. In contrast, father's labor outcomes were unaffected. We also find lower fertility for affected families as well as local spillovers, but no effect on marriage dissolution.
+Having a child with a severe congenital disability deeply impacts family life, yet evidence on the economic effects remains limited. This paper examines the impact of a child health shock causing lifelong disability on household labor market outcomes and fertility in Brazil. Using an exogenous shock to disability incidence—the Zika virus epidemic, which caused a surge of microcephaly cases leading to lifelong disability in children—we find that mothers of affected children reduce labor force participation, including informal work, while fathers’ labor market outcomes are unaffected. The shock increases the motherhood penalty by 66 percent, and informal employment does not buffer the effects on formal employment. Brazil’s disability payment system supplements income but intensifies maternal employment losses. We find no effects on fertility or partner separation. Results suggest that child health shocks and pandemics have persistent economic impacts beyond immediate health conditions and that, in developing countries, informality and welfare programs shape these impacts.
 
-## [Optimizing Incentives for Rooftop Solar: Accounting for Regional Differences in Marginal Emissions][1]
-
-Although federal incentives for residential rooftop solar do not discriminate between US states, there is substantial variation in the marginal emission reductions associated with solar across states. This variation indicates potentially large efficiency gains from having flexible state-by-state incentives. In this paper I estimate the supply and demand elasticities for new rooftop solar installations, using state-level incentives as an instrument. I find a demand elasticity of 11% and supply elasticity consistent with the perfectly elastic case. I then use these parameters to show that the state-by-state subsidy scheme that minimizes yearly emissions is 61% more efficient than the uniform incentive. These results can be useful as the Inflation Reduction Act of 2021 includes unprecedented funding allocation for climate policy, including incentives for residential rooftop solar generators. 
 
 
 [1]:{{ site.url }}/assets/pdf/SolarProject.pdf
