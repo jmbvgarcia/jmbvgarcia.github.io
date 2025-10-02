@@ -26,13 +26,13 @@ You can contact me at joao.garcia@usach.cl, and you can find my CV [here][4].
 # Working Papers
 
 ## [Free Childcare and the Motherhood Penalty: Evidence from São Paulo][2]
-### with Marcela Mello and Rafael Latham-Proença
+### with Marcela Mello, Rafael Latham-Proença and Joana Silva
 
 Latin America consistently has some of the world`s largest child penalties (or motherhood penalties) for women, and while subsidized childcare is often advanced as a remedy, the literature on its effectiveness is scarce outside developed countries. This paper estimates the impact of a rapid expansion of public childcare on mothers' careers in the city of São Paulo. We leverage the precise location and timing of the expansion of childcare facilities, coupled with detailed data on the labor market and household characteristics to identify effects on mothers' labor market participation and earnings. Using a difference-in-differences approach, we compare the child penalty in districts that experienced a large and rapid expansion of childcare with districts with no significant expansion. Our results show that an additional seat per child leads to an increase of 6.4 p.p. (20%) in the mothers' formal employment after the first child's birth. We do not detect any effect of this expansion on two comparison groups: mothers-to-be and fathers. 
 
 
 
-## [CChild Disability and Parental Labor Supply][3]
+## [Child Disability and Parental Labor Supply][3]
 ### with Marcela Mello, Rafael Latham-Proença and Joana Silva
 
 Having a child with a severe congenital disability deeply impacts family life, yet evidence on the economic effects remains limited. This paper examines the impact of a child health shock causing lifelong disability on household labor market outcomes and fertility in Brazil. Using an exogenous shock to disability incidence—the Zika virus epidemic, which caused a surge of microcephaly cases leading to lifelong disability in children—we find that mothers of affected children reduce labor force participation, including informal work, while fathers’ labor market outcomes are unaffected. The shock increases the motherhood penalty by 66 percent, and informal employment does not buffer the effects on formal employment. Brazil’s disability payment system supplements income but intensifies maternal employment losses. We find no effects on fertility or partner separation. Results suggest that child health shocks and pandemics have persistent economic impacts beyond immediate health conditions and that, in developing countries, informality and welfare programs shape these impacts.
