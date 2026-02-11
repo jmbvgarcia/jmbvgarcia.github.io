@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 ![jmpic]({{ site.url }}//assets/img/jm_photo.jpeg){:width="100%"}
 
-I am an Assistant Professor atthe Universidad de Santiago de Chile (USACH), working in labor and gender in developing countries and environmental policy. 
+I am an Assistant Professor at the Universidad de Santiago de Chile (USACH), working in labor and gender in developing countries and environmental policy. 
 
 You can contact me at joao.garcia@usach.cl, and you can find my CV [here][3].
 
