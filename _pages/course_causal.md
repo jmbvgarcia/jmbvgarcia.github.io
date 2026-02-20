@@ -39,7 +39,7 @@ nav_order: 6
 - [Ejercicios][19]
 
 # Inferencia
-# En Experimentos
+## En Experimentos
 - [Clase][13]
 - [Código][14]
 
