@@ -6,6 +6,8 @@ nav: false
 nav_order: 6
 ---
 
+- [Programa][29]
+
 # Repasos
 
 ##  Repaso de Estadística
@@ -96,3 +98,4 @@ nav_order: 6
 [26]:{{ site.url }}/assets/pdf/DID.pdf
 [27]:{{ site.url }}/assets/pdf/tarea5.pdf
 [28]:{{ site.url }}/assets/pdf/tarea6.pdf
+[29]:{{ site.url }}/assets/pdf/syllabus.pdf
