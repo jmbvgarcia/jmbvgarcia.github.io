@@ -80,7 +80,7 @@ nav_order: 6
 [6]:{{ site.url }}/assets/pdf/ResultadosPotenciales.pdf
 [7]:{{ site.url }}/assets/pdf/Experimentos.pdf
 [8]:{{ site.url }}/assets/code/imperfect_compliance.R
-[9]:{{ site.url }}/assets/pdf/Condicionando.pdf
+[9]:{{ site.url }}/assets/pdf/Selección.pdf
 [10]:{{ site.url }}/assets/code/titanic.R
 [11]:{{ site.url }}/assets/code/nearest_neighbor_matching.R
 [12]:{{ site.url }}/assets/code/ps.R
