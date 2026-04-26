@@ -45,10 +45,6 @@ nav_order: 6
 # Inferencia
 ## En Experimentos
 - [Clase][13]
-- [Código][14]
-
-## No Experimental
-- [Clase][16]
 - [Código Clustering][17]
 - [Código Bootstrap][18]
 
@@ -87,7 +83,6 @@ nav_order: 6
 [13]:{{ site.url }}/assets/pdf/Inferencia.pdf
 [14]:{{ site.url }}/assets/code/exact_inference.R
 [15]:{{ site.url }}/assets/pdf/Ejercicios2.pdf
-[16]:{{ site.url }}/assets/pdf/Inferencia2.pdf
 [17]:{{ site.url }}/assets/code/cluster_sim.R
 [18]:{{ site.url }}/assets/code/bootstrap.R
 [19]:{{ site.url }}/assets/pdf/Ejercicios3.pdf
