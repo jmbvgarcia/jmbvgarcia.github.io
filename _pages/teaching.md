@@ -7,11 +7,17 @@ nav_order: 5
 ---
 
 # Universidad de Santiago de Chile
+
+*Instructor*
+
 ## Microeconometría y Inferencia Causal
 
 - [Página del curso][2]
 
 # Brown University
+
+*Teaching Assistant*
+
 ## PhD Sequence
 
 - Macroeconomics - Prof. Oded Galor

@@ -1,12 +1,8 @@
+# Used by the al-folio repository cards include. Not rendered today, since no
+# page sets `repositories` in its front matter.
+
 github_users:
-  - torvalds
-  - alshedivat
+  - jmbvgarcia
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jmbvgarcia/jmbvgarcia.github.io
