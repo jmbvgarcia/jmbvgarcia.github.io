@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-![jmpic]({{ site.url }}/assets/img/mypic.jpg){:width="100%"}
+![jmpic]({{ site.url }}/assets/img/mypic_web.jpg){:width="100%"}
 
 I am an Assistant Professor at the Universidad de Santiago de Chile (USACH), working in labor, gender and health in developing countries. 
 
