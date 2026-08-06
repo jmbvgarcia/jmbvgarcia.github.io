@@ -46,9 +46,9 @@ Having a child with a severe congenital disability deeply impacts family life, y
 
 
 
-[1]:{{ site.url }}/assets/pdf/Childcare_SP.pdf
-[2]:{{ site.url }}/assets/pdf/ZikaPaper.pdf
+[1]:{{ site.url }}/papers/free-childcare/
+[2]:{{ site.url }}/papers/child-disability/
 [3]:{{ site.url }}/assets/pdf/CV.pdf
-[4]:{{ site.url }}/assets/pdf/PentecostalMayors.pdf
+[4]:{{ site.url }}/papers/religious-mayors/
 [5]:https://scholar.google.com/citations?user=2ETYvogAAAAJ
 [6]:https://orcid.org/0000-0001-6691-5260

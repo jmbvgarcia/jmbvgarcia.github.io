@@ -41,6 +41,32 @@
     <meta name="keywords" content="{%- if page.keywords -%}{{ page.keywords }}{%- else -%}{{ site.keywords }}{%- endif -%}" />
 {%- endif %}
 
+{%- comment -%}
+  Highwire Press tags, used by Google Scholar to index papers. Emitted only on
+  pages that set `citation_authors` (the _papers collection). Author names must
+  be "Last, First" and citation_pdf_url must be absolute.
+{%- endcomment -%}
+{%- if page.citation_authors %}
+    <!-- Google Scholar (Highwire Press) -->
+    <meta name="citation_title" content="{{ page.title }}" />
+    {%- for author in page.citation_authors %}
+    <meta name="citation_author" content="{{ author }}" />
+    {%- endfor %}
+    {%- if page.citation_date %}
+    <meta name="citation_publication_date" content="{{ page.citation_date }}" />
+    {%- endif %}
+    {%- if page.pdf %}
+    <meta name="citation_pdf_url" content="{{ page.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" />
+    {%- endif %}
+    <meta name="citation_abstract_html_url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+    {%- if page.institution %}
+    <meta name="citation_technical_report_institution" content="{{ page.institution }}" />
+    {%- endif %}
+    {%- if page.arxiv %}
+    <meta name="citation_arxiv_id" content="{{ page.arxiv }}" />
+    {%- endif %}
+{%- endif %}
+
 {%- assign is_blog_post = false -%}
 {%- if page.url != '/blog/index.html' and page.url contains '/blog/' -%}
     {%- unless page.url contains '/tag/' or page.url contains '/category/' -%}

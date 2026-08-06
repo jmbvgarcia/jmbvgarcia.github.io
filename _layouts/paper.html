@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<!-- paper.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-description">
+              {%- if page.coauthors -%}
+                with {{ page.coauthors }}
+              {%- endif -%}
+            </p>
+          </header>
+
+          <article>
+
+            <p class="paper-links">
+              {%- if page.pdf %}
+              <a href="{{ page.pdf | prepend: '/assets/pdf/' | relative_url }}">
+                <i class="fas fa-file-pdf"></i> PDF
+              </a>
+              {%- endif %}
+              {%- if page.arxiv %}
+              &nbsp;&middot;&nbsp;
+              <a href="https://arxiv.org/abs/{{ page.arxiv }}">
+                <i class="ai ai-arxiv"></i> arXiv
+              </a>
+              {%- endif %}
+              {%- if page.slides %}
+              &nbsp;&middot;&nbsp;
+              <a href="{{ page.slides | prepend: '/assets/pdf/' | relative_url }}">
+                <i class="fas fa-chalkboard"></i> Slides
+              </a>
+              {%- endif %}
+            </p>
+
+            {%- if page.abstract %}
+            <h2>Abstract</h2>
+            <p>{{ page.abstract }}</p>
+            {%- endif %}
+
+            {{ content }}
+
+            {%- if page.jel %}
+            <p><strong>JEL Codes:</strong> {{ page.jel }}</p>
+            {%- endif %}
+
+          </article>
+
+        </div>

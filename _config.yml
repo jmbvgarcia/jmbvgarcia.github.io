@@ -164,6 +164,11 @@ collections:
       layout: post
     output: false
     permalink: /news/:path/
+  papers:
+    defaults:
+      layout: paper
+    output: true
+    permalink: /papers/:path/
   projects:
     output: false
     permalink: /projects/:path/
