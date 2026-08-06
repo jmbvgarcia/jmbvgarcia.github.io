@@ -13,7 +13,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 
 ---
 
@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am an Assistant Professor at the Universidad de Santiago de Chile (USACH), working in labor, gender and health in developing countries. 
 
-You can contact me at joao.garcia@usach.cl, and you can find my CV [here][3].
+You can contact me at joao.garcia@usach.cl, and you can find my CV [here][3]. I am also on [Google Scholar][5] and [ORCID][6].
 
 # Working Papers
 
@@ -50,3 +50,5 @@ Having a child with a severe congenital disability deeply impacts family life, y
 [2]:{{ site.url }}/assets/pdf/ZikaPaper.pdf
 [3]:{{ site.url }}/assets/pdf/CV.pdf
 [4]:{{ site.url }}/assets/pdf/PentecostalMayors.pdf
+[5]:https://scholar.google.com/citations?user=2ETYvogAAAAJ
+[6]:https://orcid.org/0000-0001-6691-5260
