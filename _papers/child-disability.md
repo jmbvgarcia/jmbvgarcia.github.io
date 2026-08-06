@@ -7,7 +7,7 @@ citation_authors:
   - "Latham-Proença, Rafael"
   - "Mello, Marcela"
   - "Silva, Joana"
-citation_date: 2026/02/20
+citation_date: 2026/08/06
 institution: Universidad de Santiago de Chile
 pdf: ZikaPaper.pdf
 slides: Zika_Presentation.pdf

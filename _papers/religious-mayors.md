@@ -5,7 +5,7 @@ description: Regression discontinuity evidence from close mayoral elections in B
 citation_authors:
   - "Mello, Marcela"
   - "Garcia, João"
-citation_date: 2026/03/24
+citation_date: 2026/08/06
 institution: Universidad de Santiago de Chile
 pdf: PentecostalMayors.pdf
 arxiv: 2602.19388
