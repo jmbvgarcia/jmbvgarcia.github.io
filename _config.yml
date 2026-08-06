@@ -123,7 +123,7 @@ permalink:
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -162,7 +162,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: false
@@ -209,7 +209,6 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
@@ -231,6 +230,13 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  # The al-folio sample posts in _posts/ are not real content. Keep them out of
+  # the build (and therefore out of the sitemap) without deleting the files.
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      published: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -246,7 +252,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [] # disabled: no real blog posts, so year/tag/category archives are empty
   layouts:
     year: archive-year
     tag: archive-tag
