@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: João Garcia
+first_name: João Marcos Garcia
 middle_name: #R.
 last_name: 
 email: joao.garcia@usach.cl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic website of João Garcia, Assistant Professor at Universidad de Santiago de Chile.
+  Academic website of João Marcos Garcia, Assistant Professor at Universidad de Santiago de Chile.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💡  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -277,7 +277,7 @@ display_categories: [] # these categories will be displayed on the front page of
 scholar:
 
   last_name: [Garcia]
-  first_name: [João, Joao]
+  first_name: [João Marcos, João, Joao]
 
   style: apa
   locale: en

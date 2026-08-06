@@ -4,7 +4,7 @@ coauthors: Marcela Mello
 description: Regression discontinuity evidence from close mayoral elections in Brazil.
 citation_authors:
   - "Mello, Marcela"
-  - "Garcia, João"
+  - "Garcia, João Marcos"
 citation_date: 2026/08/06
 institution: Universidad de Santiago de Chile
 pdf: PentecostalMayors.pdf
