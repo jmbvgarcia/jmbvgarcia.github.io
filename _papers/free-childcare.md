@@ -1,4 +1,5 @@
 ---
+layout: paper
 title: "Free Childcare and the Motherhood Penalty: Evidence from São Paulo"
 coauthors: Rafael Latham-Proença, Marcela Mello and Joana Silva
 description: Difference-in-differences evidence from a rapid public childcare expansion in São Paulo.

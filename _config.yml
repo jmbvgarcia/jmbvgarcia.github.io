@@ -165,8 +165,6 @@ collections:
     output: false
     permalink: /news/:path/
   papers:
-    defaults:
-      layout: paper
     output: true
     permalink: /papers/:path/
   projects:
@@ -242,6 +240,13 @@ defaults:
       type: "posts"
     values:
       published: false
+  # Jekyll ignores a `defaults:` key inside a collection definition, so the
+  # papers layout has to be set here or the pages render with no layout.
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: paper
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier

@@ -1,4 +1,5 @@
 ---
+layout: paper
 title: "Child Disability and Parental Labor Supply"
 coauthors: Rafael Latham-Proença, Marcela Mello and Joana Silva
 description: The labor market effects of a child health shock, using the Zika epidemic in Brazil.

@@ -1,4 +1,5 @@
 ---
+layout: paper
 title: "Religious Mayors, School Appointments, and Teenage Pregnancy"
 coauthors: Marcela Mello
 description: Regression discontinuity evidence from close mayoral elections in Brazil.
