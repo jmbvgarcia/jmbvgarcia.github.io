@@ -1,0 +1,26 @@
+<!-- _includes/paper_links.html -->
+{%- assign entry = include.paper -%}
+<p class="paper-links">
+  {%- if entry.pdf %}
+  {%- if entry.pdf contains '://' -%}
+    {%- assign pdf_url = entry.pdf -%}
+  {%- else -%}
+    {%- assign pdf_url = entry.pdf | prepend: '/assets/pdf/' | relative_url -%}
+  {%- endif %}
+  <a class="paper-link" href="{{ pdf_url }}"><i class="fas fa-file-pdf"></i> PDF</a>
+  {%- endif %}
+  {%- if entry.arxiv %}
+  <a class="paper-link" href="https://arxiv.org/abs/{{ entry.arxiv }}"><i class="ai ai-arxiv"></i> arXiv</a>
+  {%- endif %}
+  {%- if entry.slides %}
+  {%- if entry.slides contains '://' -%}
+    {%- assign slides_url = entry.slides -%}
+  {%- else -%}
+    {%- assign slides_url = entry.slides | prepend: '/assets/pdf/' | relative_url -%}
+  {%- endif %}
+  <a class="paper-link" href="{{ slides_url }}"><i class="fas fa-chalkboard"></i> Slides</a>
+  {%- endif %}
+  {%- if include.page_url %}
+  <a class="paper-link" href="{{ include.page_url }}"><i class="fas fa-info-circle"></i> Details</a>
+  {%- endif %}
+</p>

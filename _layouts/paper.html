@@ -15,25 +15,7 @@ layout: default
 
           <article>
 
-            <p class="paper-links">
-              {%- if page.pdf %}
-              <a href="{{ page.pdf | prepend: '/assets/pdf/' | relative_url }}">
-                <i class="fas fa-file-pdf"></i> PDF
-              </a>
-              {%- endif %}
-              {%- if page.arxiv %}
-              &nbsp;&middot;&nbsp;
-              <a href="https://arxiv.org/abs/{{ page.arxiv }}">
-                <i class="ai ai-arxiv"></i> arXiv
-              </a>
-              {%- endif %}
-              {%- if page.slides %}
-              &nbsp;&middot;&nbsp;
-              <a href="{{ page.slides | prepend: '/assets/pdf/' | relative_url }}">
-                <i class="fas fa-chalkboard"></i> Slides
-              </a>
-              {%- endif %}
-            </p>
+            {% include paper_links.html paper=page %}
 
             {%- if page.abstract %}
             <h2>Abstract</h2>
