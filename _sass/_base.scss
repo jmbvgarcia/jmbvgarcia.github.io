@@ -19,6 +19,40 @@ strong {
   color: var(--global-text-color);
 }
 
+// Heading scale. Bootstrap's defaults (h1 2.5rem, h2 2rem, h3 1.75rem) are too
+// large for a text-heavy academic site: paper titles wrapped onto two lines and
+// crowded out the prose. Scoped rules elsewhere (.header-bar, .publications,
+// .cv) are more specific and keep their own sizes.
+h1 {
+  font-size: 2rem;
+  line-height: 1.25;
+}
+
+h2 {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+h3 {
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+h4 {
+  font-size: 1.125rem;
+  line-height: 1.4;
+}
+
+h5 {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+h6 {
+  font-size: 0.9375rem;
+  line-height: 1.4;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -1035,17 +1069,21 @@ nav[data-toggle="toc"] {
   }
 }
 
-// Working paper entries and their PDF / arXiv / slides buttons
-.paper-entry {
+// Working paper entries and their PDF / arXiv / slides buttons. Nested under
+// `.post article` so these win over the article heading rhythm defined below.
+.post article .paper-entry {
   margin-bottom: 2.5rem;
 
   h2 {
     margin-bottom: 0.25rem;
   }
 
+  // Coauthor line: metadata, not a section heading, so it stays tight to the
+  // title rather than taking the article heading spacing.
   h3 {
     color: var(--global-text-color-light);
-    font-size: 1.1rem;
+    font-size: 1rem;
+    margin-top: 0;
     margin-bottom: 0.75rem;
   }
 }
@@ -1069,5 +1107,23 @@ nav[data-toggle="toc"] {
       border-color: var(--global-theme-color);
       color: var(--global-theme-color);
     }
+  }
+}
+
+// Prose rhythm inside article bodies. Slightly looser leading than Bootstrap's
+// 1.5 makes the long abstracts easier to read at this measure.
+.post article {
+  p,
+  li {
+    line-height: 1.65;
+  }
+
+  p {
+    margin-bottom: 1.15rem;
+  }
+
+  h2,
+  h3 {
+    margin-top: 2rem;
   }
 }
