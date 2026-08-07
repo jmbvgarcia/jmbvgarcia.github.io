@@ -12,6 +12,13 @@ institution: Universidad de Santiago de Chile
 pdf: PentecostalMayors.pdf
 arxiv: 2602.19388
 jel: D72, I12, I18, J13, Z12
+figure: religious-mayors.png
+figure_caption: >
+  Teenage birth rates jump discontinuously in municipalities where a Pentecostal
+  candidate barely won. RD estimate: 3.008 (0.911), robust p-value 0.001.
+figure_alt: >
+  Regression discontinuity plot of the teenage birth rate against Pentecostal
+  margin of victory, with a clear upward jump at a margin of zero.
 abstract: >
   When religious movements win executive office, they can use bureaucratic
   levers to reshape public services along doctrinal lines. Using a regression

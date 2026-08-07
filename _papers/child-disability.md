@@ -13,6 +13,15 @@ citation_date: 2026/08/06
 institution: Universidad de Santiago de Chile
 pdf: ZikaPaper.pdf
 slides: Zika_Presentation.pdf
+figure: child-disability.png
+figure_caption: >
+  Mothers of children with microcephaly track control mothers closely before
+  childbirth, then diverge sharply: the employment gap opens about six months
+  after birth and persists for three years.
+figure_alt: >
+  Formal employment by months since childbirth for mothers of children with
+  microcephaly versus control mothers, tracking together before birth and
+  diverging after.
 abstract: >
   Having a child with a severe congenital disability deeply impacts family
   life, yet evidence on the economic effects remains limited. This paper

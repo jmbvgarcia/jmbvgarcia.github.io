@@ -13,6 +13,14 @@ citation_date: 2026/08/06
 institution: Universidad de Santiago de Chile
 pdf: Childcare_SP.pdf
 slides: Childcare_presentation.pdf
+figure: free-childcare.png
+figure_caption: >
+  Mothers' formal employment rises after the childcare expansion and keeps
+  growing, with no differential pre-trend: the pre-treatment average is -0.003
+  (0.007) against a post-treatment average of 0.023 (0.007).
+figure_alt: >
+  Event-study plot of the effect of childcare expansion on mothers' formal
+  employment, flat before treatment and rising steadily after it.
 abstract: >
   Latin America consistently has some of the world's largest motherhood
   penalties for women, and while subsidized childcare is often advanced as a

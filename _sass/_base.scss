@@ -1127,3 +1127,31 @@ nav[data-toggle="toc"] {
     margin-top: 2rem;
   }
 }
+
+// Headline figure on a paper page. Chart exports carry their own (light)
+// background, so the plate keeps them from glaring against the dark theme and
+// reads as deliberate matting in both themes.
+.paper-figure {
+  margin-bottom: 1rem;
+
+  figure {
+    margin-bottom: 0;
+  }
+
+  // No padding: chart exports carry their own canvas (Stata's is cream, not
+  // white), and padding would ring them in a mismatched colour. The background
+  // is only a fallback for exports saved with transparency.
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    background-color: #fff;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+  }
+
+  .caption {
+    text-align: left;
+    margin-bottom: 0;
+  }
+}

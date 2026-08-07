@@ -22,6 +22,19 @@ layout: default
             <p>{{ page.abstract }}</p>
             {%- endif %}
 
+            {%- if page.figure %}
+            {%- assign figure_path = page.figure | prepend: '/assets/img/paper_figures/' -%}
+            {%- assign figure_alt = page.figure_alt | default: page.figure_caption | default: page.title -%}
+            <h2>{{ page.figure_title | default: "Main result" }}</h2>
+            <div class="paper-figure">
+              {% include figure.html
+              path=figure_path
+              caption=page.figure_caption
+              alt=figure_alt
+              zoomable=true -%}
+            </div>
+            {%- endif %}
+
             {{ content }}
 
             {%- if page.jel %}
