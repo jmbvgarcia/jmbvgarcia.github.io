@@ -8,6 +8,14 @@
     gtag('config', '{{ site.google_analytics }}');
   </script>
 {%- endif -%}
+{%- if site.enable_goatcounter_analytics -%}
+  <!-- GoatCounter -->
+  <script
+    data-goatcounter="https://{{ site.goatcounter_analytics }}.goatcounter.com/count"
+    async
+    src="//gc.zgo.at/count.js"
+  ></script>
+{%- endif -%}
 {%- if site.enable_cronitor_analytics -%}
   <!-- Cronitor RUM -->
   <script async src="https://rum.cronitor.io/script.js"></script>
