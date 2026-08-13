@@ -1,99 +1,140 @@
 ---
 layout: page
 permalink: /causal/
-title: Microeconometría y Inferencia Causal
+title: Inferencia Causal
+description: Primer Semestre 2026 &middot; Facultad de Administración y Economía &middot; USACH
 nav: false
 nav_order: 6
 ---
 
-- [Programa][29]
+- [Programa del curso][syllabus]
 
-- [Intro][30]
+Clases: Lunes L3 (11:25–12:45) y L4 (13:45–15:05) &middot; Ayudantía: Miércoles W5 (15:20–16:40) &middot; Sala EF307
 
-# Repasos
+---
 
-##  Repaso de Estadística
-- [Clase][1]
+# Módulo 1 — Fundamentos y Causalidad
 
-##  Repaso de Regresión
-- [Clase][2]
-- [Código][3]
+## Clase 1 — Repaso e Introducción a la Causalidad
+*30 de marzo.* Historia intelectual y motivación. Repaso de probabilidad y regresión.
 
+- [Introducción][intro]
+- [Repaso de Probabilidad y Estadística][repaso-prob]
+- [Repaso de Regresión][repaso-reg]
 
-# Modelos de Causalidad
-## Diagramas Causales
-- [Clase][4]
-- [Ejercícios][5]
+## Clase 2 — DAGs e Inferencia Causal
+*6 de abril.* Nodos, aristas y caminos causales. Confusores, mediadores y colisionadores.
 
-## Modelo de Resultados Potenciales
-- [Clase][6]
+- [Clase][dags]
+- [Código][code-dags]
 
-# Experimentos
-## Ensaios Controlados Randomizados
-- [Clase][7]
-- [Código][8]
-- [Ejercicios][15]
+## Clase 3 — Resultados Potenciales y RCTs
+*13 de abril.* El modelo de resultados potenciales. Ensayos controlados aleatorios.
 
-# Controles
-## Regresión y Pareamento
-- [Clase][9]
-- [Código Subclasificación][10]
-- [Código Matching][11]
-- [Código Propensity Score][12]
-- [Ejercicios][19]
+- [Resultados Potenciales][potenciales]
+- [Experimentos Aleatorizados][experimentos]
 
-# Inferencia
-## En Experimentos
-- [Clase][13]
-- [Código Clustering][17]
-- [Código Bootstrap][18]
+# Módulo 2 — Estrategias de Identificación I
 
-# Diseños Cuasi-experimentales
-## Variables Instrumentales
-- [Clase][20]
-- [Ejercicio][21]
-- [Tarea][23]
+## Clase 4 — Selección en Observables
+*20 de abril.* Control con regresión. Emparejamiento y Propensity Score.
 
-## Regresión Discontinua
-- [Clase][24]
-- [Código][25]
-- [Tarea][27]
+- [Condicionando en Observables][seleccion]
+- [Probit, Logit y Propensity Score][probit]
 
-## Diferencias en Diferencias y Control Sintético
-- [Clase][26]
-- [Tarea][28]
+## Clase 5 — Cumplimiento Imperfecto
+*27 de abril.* El problema de cumplimiento imperfecto en RCTs. Cumplidores, tomadores y rechazadores. El ITT y el LATE.
 
-## Evaluación
-- [Trabajo Final][22]
+- [Parte 1 — Tipos de cumplimiento e ITT][ci1]
+- [Parte 2 — Del ITT al LATE][ci2]
 
+## PEP I
+*Miércoles 6 de mayo.* Evaluación Parcial (20%) — cubre Clases 1–5.
 
+# Módulo 3 — Inferencia
 
-[1]:{{ site.url }}/assets/pdf/RepasoProb.pdf
-[2]:{{ site.url }}/assets/pdf/RepasoRegresion.pdf
-[3]:{{ site.url }}/assets/code/regression.R
-[4]:{{ site.url }}/assets/pdf/DAGs.pdf
-[5]:{{ site.url }}/assets/pdf/Ejercicios1.pdf
-[6]:{{ site.url }}/assets/pdf/ResultadosPotenciales.pdf
-[7]:{{ site.url }}/assets/pdf/Experimentos.pdf
-[8]:{{ site.url }}/assets/code/imperfect_compliance.R
-[9]:{{ site.url }}/assets/pdf/Selección.pdf
-[10]:{{ site.url }}/assets/code/titanic.R
-[11]:{{ site.url }}/assets/code/nearest_neighbor_matching.R
-[12]:{{ site.url }}/assets/code/ps.R
-[13]:{{ site.url }}/assets/pdf/Inferencia.pdf
-[14]:{{ site.url }}/assets/code/exact_inference.R
-[15]:{{ site.url }}/assets/pdf/Ejercicios2.pdf
-[17]:{{ site.url }}/assets/code/cluster_sim.R
-[18]:{{ site.url }}/assets/code/bootstrap.R
-[19]:{{ site.url }}/assets/pdf/Ejercicios3.pdf
-[20]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
-[21]:{{ site.url }}/assets/pdf/ejercicio_iv.pdf
-[22]:{{ site.url }}/assets/pdf/trabajo_final.pdf
-[23]:{{ site.url }}/assets/pdf/Tarea4.pdf
-[24]:{{ site.url }}/assets/pdf/RDD.pdf
-[25]:{{ site.url }}/assets/code/clase_RD.R
-[26]:{{ site.url }}/assets/pdf/DID.pdf
-[27]:{{ site.url }}/assets/pdf/tarea5.pdf
-[28]:{{ site.url }}/assets/pdf/tarea6.pdf
-[29]:{{ site.url }}/assets/pdf/syllabus.pdf
-[30]:{{ site.url }}/assets/pdf/Introduccion.pdf
+## Clase 6 — Tópicos de Inferencia
+*25 de mayo.* Pruebas de hipótesis y potencia estadística. Clustering. Inferencia por aleatorización y Bootstrap.
+
+- [Clase][inferencia]
+
+# Módulo 4 — Estrategias de Identificación II
+
+## Clase 7 — Variables Instrumentales I
+*1 de junio.* Marco de IV: relevancia y exogeneidad. El LATE como estimador de IV.
+
+- [Clase][iv]
+
+## Clase 8 — Variables Instrumentales II
+*8 de junio.* 2SLS: implementación e interpretación. Aplicaciones empíricas clásicas.
+
+- [Clase][iv]
+
+## Clase 9 — Discontinuidad en la Regresión (RDD)
+*15 de junio.* Identificación en el punto de corte. Estimación. Validación y aplicaciones. RDD aguda vs. difusa.
+
+- [Clase][rdd]
+
+## Clase 10 — Diferencias en Diferencias I
+*22 de junio.* El supuesto de tendencias paralelas. Estimación con dos períodos y dos grupos. Event studies.
+
+- [Clase][did]
+
+## Clase 11 — Diferencias en Diferencias II
+*29 de junio.* DID con múltiples períodos y tratamiento escalonado. Efectos heterogéneos.
+
+- [Clase][did]
+
+## Clase 12 — Control Sintético
+*6 de julio.* Motivación y relación con DID. Construcción del contrafactual sintético. Inferencia por permutación.
+
+- [Clase][sintetico]
+
+# Módulo 5 — Integración
+
+## Clase 13 — Anatomía de un Paper y Taller de Diseño
+*13 de julio.* Lectura crítica de estudios empíricos (IV, RDD, DID). Presentación y discusión de propuestas de proyecto.
+
+- [Clase][anatomia]
+
+## PEP II
+*Miércoles 22 de julio.* Evaluación Final (30%) y Proyectos (30%).
+
+- [Trabajo Final][trabajo-final]
+
+# Evaluaciones
+
+| Evaluación | Fecha | Ponderación |
+| :--- | :--- | :--- |
+| PEP I | Miércoles 6 de mayo | 20% |
+| PEP II (Examen Final) | Miércoles 22 de julio | 30% |
+| Presentación de Proyectos | Semana del 20 de julio | 30% |
+| Notas Sumativas (controles) | Mayoría de las clases | 20% |
+
+Para aprobar se requiere un promedio de PEPs ≥ 4,0 y asistencia mínima del 75%.
+
+# Bibliografía
+
+- Huntington-Klein, N. (2021). *The Effect: An Introduction to Research Design and Causality.* Chapman and Hall/CRC.
+- Cunningham, S. (2021). *Causal Inference: The Mixtape.* Yale University Press.
+- Angrist, J.D., & Pischke, J.-S. (2009). *Mostly Harmless Econometrics: An Empiricist's Companion.* Princeton University Press.
+
+[syllabus]:{{ site.url }}/assets/pdf/syllabus.pdf
+[intro]:{{ site.url }}/assets/pdf/Introduccion.pdf
+[repaso-prob]:{{ site.url }}/assets/pdf/RepasoProb.pdf
+[repaso-reg]:{{ site.url }}/assets/pdf/RepasoRegresion.pdf
+[dags]:{{ site.url }}/assets/pdf/DAGs.pdf
+[code-dags]:{{ site.url }}/assets/code/code_dags.R
+[potenciales]:{{ site.url }}/assets/pdf/ResultadosPotenciales.pdf
+[experimentos]:{{ site.url }}/assets/pdf/Experimentos.pdf
+[seleccion]:{{ site.url }}/assets/pdf/Selección.pdf
+[probit]:{{ site.url }}/assets/pdf/probit_logit.pdf
+[ci1]:{{ site.url }}/assets/pdf/CI1.pdf
+[ci2]:{{ site.url }}/assets/pdf/CI2.pdf
+[inferencia]:{{ site.url }}/assets/pdf/Inferencia.pdf
+[iv]:{{ site.url }}/assets/pdf/VariablesInstrumentales.pdf
+[rdd]:{{ site.url }}/assets/pdf/RDD.pdf
+[did]:{{ site.url }}/assets/pdf/DID.pdf
+[sintetico]:{{ site.url }}/assets/pdf/ControlSintetico.pdf
+[anatomia]:{{ site.url }}/assets/pdf/AnatomiaPaper.pdf
+[trabajo-final]:{{ site.url }}/assets/pdf/Trabajo_Final_2026_S1.pdf
