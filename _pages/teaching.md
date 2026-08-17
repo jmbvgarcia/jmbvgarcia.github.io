@@ -10,7 +10,7 @@ nav_order: 5
 
 *Instructor*
 
-## Microeconometría y Inferencia Causal
+## Inferencia Causal
 
 - [Página del curso][2]
 
