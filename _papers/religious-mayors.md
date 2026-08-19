@@ -10,7 +10,7 @@ citation_authors:
 citation_date: 2026/08/06
 institution: Universidad de Santiago de Chile
 pdf: PentecostalMayors.pdf
-slides: EvangelicalMayorsSlides.pdf
+slides: EvangelicalMayorSlides.pdf
 arxiv: 2602.19388
 jel: D72, I12, I18, J13, Z12
 figure: religious-mayors.png
