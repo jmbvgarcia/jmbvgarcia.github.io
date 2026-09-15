@@ -11,6 +11,9 @@ layout: default
                 with {{ page.coauthors }}
               {%- endif -%}
             </p>
+            {%- if page.status %}
+            <p class="paper-status">{{ page.status }}</p>
+            {%- endif %}
           </header>
 
           <article>

@@ -33,6 +33,9 @@ You can contact me at joao.garcia@usach.cl, and you can find my CV [here][3]. I 
   {%- if paper.coauthors %}
   <h3>with {{ paper.coauthors }}</h3>
   {%- endif %}
+  {%- if paper.status %}
+  <p class="paper-status">{{ paper.status }}</p>
+  {%- endif %}
   <p>{{ paper.abstract }}</p>
   {% include paper_links.html paper=paper page_url=paper_url %}
 </div>

@@ -1088,6 +1088,26 @@ nav[data-toggle="toc"] {
   }
 }
 
+// Publication status note (e.g. R&R), shown under the coauthor line.
+.post .paper-status {
+  color: var(--global-theme-color);
+  font-size: 0.95rem;
+  font-style: italic;
+  margin-top: -0.5rem;
+  margin-bottom: 0.75rem;
+
+  em {
+    font-style: normal;
+  }
+}
+
+// On the paper page, pull it up under the coauthor line (which carries 2rem of
+// bottom margin) and restore that spacing below the header.
+.post .post-header .paper-status {
+  margin-top: -1.5rem;
+  margin-bottom: 2rem;
+}
+
 .paper-links {
   display: flex;
   flex-wrap: wrap;
